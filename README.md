@@ -29,3 +29,4 @@ https://public.tableau.com/app/profile/susmi.elsa.sam.varghese/viz/RetailSalesPr
 
 📷 Dashboard Preview
 
+https://github.com/SusmiElsa/retail-sales-analysis-tableau/blob/main/retail-sales-analysis-tableau.png
