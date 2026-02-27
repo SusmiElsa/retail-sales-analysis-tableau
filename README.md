@@ -1,27 +1,57 @@
-Retail Sales & Profit Analysis – Kerala Ladies Boutique
-📊 Project Overview
+📊 Retail Sales & Profit Analysis | Kerala Ladies Boutique
+🧠 Project Objective
 
-This project analyzes simulated retail sales data for a ladies boutique using Tableau Public. The dashboard provides insights into revenue performance, profit margins, sales trends, and product categories.
+To analyze retail sales performance using simulated boutique data and design an executive-level dashboard that provides actionable business insights.
 
-🔍 Key Metrics
+📁 Dataset
 
-Total Revenue
+Simulated retail dataset containing:
 
-Total Profit
+Order Date
 
-Profit Margin
+Product Category
+
+Revenue
+
+Profit
 
 Units Sold
 
-Monthly Sales Trend
+Profit Margin
 
-📈 Tools Used
+📈 Key Business Questions Answered
+
+How is revenue trending month over month?
+
+Which product categories generate the highest profit?
+
+Are high sales volumes translating into high margins?
+
+What seasonal patterns exist in boutique sales?
+
+📊 Dashboard Features
+
+KPI cards (Revenue, Profit, Profit Margin, Units Sold)
+
+Monthly Sales Trend Analysis
+
+Category-Level Performance Comparison
+
+Structured Layout using Tableau Containers
+
+Optimized Extract for performance improvement
+
+🛠 Tools & Skills Used
 
 Tableau Public
 
-Excel / CSV Data Source
+Data Visualization
 
-Data Extracts (.hyper)
+KPI Design & Business Metrics
+
+Calculated Fields
+
+Data Extract Optimization
 
 🔗 Live Dashboard
 
