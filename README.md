@@ -1,4 +1,5 @@
 📊 Retail Sales & Profit Analysis | Kerala Ladies Boutique
+
 🧠 Project Objective
 
 To analyze retail sales performance using simulated boutique data and design an executive-level dashboard that provides actionable business insights.
