@@ -56,7 +56,7 @@ Data Extract Optimization
 
 🔗 Live Dashboard
 
-https://public.tableau.com/app/profile/susmi.elsa.sam.varghese/viz/RetailSalesProfitAnalysisKeralaLadiesBoutique/RetailSalesInventoryDashboardKeralaBoutique
+https://public.tableau.com/app/profile/susmi.elsa.sam.varghese/viz/RetailSalesProfitAnalysisKeralaLadiesBoutique/RetailSalesInventoryDashboardKeralaBoutique_1
 
 📷 Dashboard Preview
 
